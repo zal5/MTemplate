@@ -44,6 +44,9 @@ namespace MTemplate
         public void On玩家死亡(Player 攻击者, Player 被攻击者, DamageHandlerBase 伤害信息)
         {
             if (攻击者.Role == RoleTypeId.ClassD)
+            {
+                //E 
+            }
 
 
         }

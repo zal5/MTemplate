@@ -40,7 +40,7 @@ namespace MTemplate
                     }
                 }
             });
-            Cxk.RoleName = "蔡徐坤";
+            Cxk.RoleName = "蔡徐坤123";
             Cxk.RoleColor = "yellow";
             Cxk.AddItem(ItemType.GunCom45);
             Cxk.Health = 200;
